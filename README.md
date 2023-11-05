@@ -1,3 +1,4 @@
+![logo](https://github.com/PrashantcodeX/PrashantcodeX/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Prashant kumar</h1>
 <h3 align="center">A passionate learner in this coding journey</h3>
 
